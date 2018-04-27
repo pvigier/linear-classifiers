@@ -1,6 +1,6 @@
 # linear-classifiers
 
-A demo shown in the [part 2]() of my tutorial on pychain.
+A demo shown in the [part 2](https://pvigier.github.io/2017/08/13/pychain-part2-mnist.html) of my tutorial on pychain.
 
 The file frontier.py allows to visualize the frontier of binary and multiclass linear classifiers.
 
